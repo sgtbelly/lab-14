@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sgtbelly/lab-14#readme",
   "dependencies": {
+    "auth0-js": "^9.8.1",
     "superagent": "^4.0.0-beta.5"
   }
 }
